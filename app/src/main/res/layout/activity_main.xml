@@ -75,7 +75,7 @@
         android:layout_below="@+id/button_beacon_reader"
         android:layout_marginTop="20dp"
         android:layout_centerHorizontal="true"
-        style="@style/launcherButtonStyle"/>
+        style="@style/capstoneButtonStyle"/>
 
 
 </RelativeLayout>
