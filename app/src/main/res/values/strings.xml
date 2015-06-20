@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+
+    <string name="title_main">My Nanodegree Apps!</string>
+    <string name="btn_lbl_media_streamer_app">Spotify Streamer</string>
+    <string name="btn_lbl_scores_app">Scores App</string>
+    <string name="btn_lbl_library_app">Library App</string>
+    <string name="btn_lbl_bigger_app">Build it Bigger</string>
+    <string name="btn_lbl_beacon_app">Bacon Reader</string>
+    <string name="btn_lbl_capstone_app">Capstone: My Own App</string>
+
+    <string name="toast_media_streamer_app">This button will launch my media streamer app</string>
+    <string name="toast_scores_app">This button will launch my scores app</string>
+    <string name="toast_library_app">This button will launch my library app</string>
+    <string name="toast_bigger_app">This button will launch my build it bigger app</string>
+    <string name="toast_beacon_app">This button will launch my beacon reader app</string>
+    <string name="toast_capstone_app">This button will launch my capstone app</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
